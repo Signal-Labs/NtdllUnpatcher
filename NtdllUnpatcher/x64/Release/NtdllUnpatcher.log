@@ -1,0 +1,10 @@
+﻿  NtdllUnpatcher.cpp
+c:\users\devl\source\repos\ntdllunpatcher\ntdllunpatcher\ntdllunpatcher.cpp(218): warning C4129: 'c': unrecognized character escape sequence
+c:\users\devl\source\repos\ntdllunpatcher\ntdllunpatcher\ntdllunpatcher.cpp(218): warning C4129: 'w': unrecognized character escape sequence
+c:\users\devl\source\repos\ntdllunpatcher\ntdllunpatcher\ntdllunpatcher.cpp(218): warning C4129: 's': unrecognized character escape sequence
+c:\users\devl\source\repos\ntdllunpatcher\ntdllunpatcher\ntdllunpatcher.cpp(246): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+     Creating library C:\Users\devl\source\repos\NtdllUnpatcher\x64\Release\NtdllUnpatcher.lib and object C:\Users\devl\source\repos\NtdllUnpatcher\x64\Release\NtdllUnpatcher.exp
+  Generating code
+  Finished generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  NtdllUnpatcher.vcxproj -> C:\Users\devl\source\repos\NtdllUnpatcher\x64\Release\NtdllUnpatcher.dll
